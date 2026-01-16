@@ -1,16 +1,31 @@
-## Hi there 👋
+<h2 align="center">Hi 👋! My name is Viktor</h2>
 
-<!--
-**Viksata7677/Viksata7677** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h2 align="left">About me</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<p align="left">🎓 I'm a Telecommunications Engineering student at Technical University of Sofia  <br>💻 Currently studying Web Development at SoftUni  <br>🌍 Based in Sofia, Bulgaria  <br>🚀 Passionate about modern communication systems, frontend & backend development, and DevOps practices</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="38" alt="python logo"  />
+  <img width="11" />
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="38" alt="django logo"  />
+  <img width="11" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="38" alt="html5 logo"  />
+  <img width="11" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="38" alt="css logo"  />
+  <img width="11" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="38" alt="javascript logo"  />
+  <img width="11" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="38" alt="postgresql logo"  />
+</div>
+
+###
