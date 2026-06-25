@@ -24,7 +24,6 @@
   <img width="11" />
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="38" alt="django logo" />
   <img width="11" />
-  <img width="11" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="38" alt="postgresql logo" />
     <img width="11" />
   <img    src="https://camo.githubusercontent.com/898535633b22acd52038db21b0940431cd21ed84f3ce1c00c745f4bfe303a653/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f6c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765" height="38" alt="html5 logo" />
